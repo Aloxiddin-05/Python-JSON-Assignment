@@ -10,7 +10,7 @@ students = [
     {"name": "Ali", "surname": "Valiyev", "age": 20},
     {"name": "Laylo", "surname": "Karimova", "age": 21},
     {"name": "Bekzod", "surname": "Xolmatov", "age": 19}
-]
+] 
 ```
 
 ---
